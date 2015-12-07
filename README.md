@@ -1,29 +1,14 @@
 # apache_first-cookbook
 
-TODO: Enter the cookbook description here.
+This cookbook will buil a base levl apache server on the centOS 7.1 platform.
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
-
-## Attributes
-
-<table>
-  <tr>
-    <th>Key</th>
-    <th>Type</th>
-    <th>Description</th>
-    <th>Default</th>
-  </tr>
-  <tr>
-    <td><tt>['apache_first']['bacon']</tt></td>
-    <td>Boolean</td>
-    <td>whether to include bacon</td>
-    <td><tt>true</tt></td>
-  </tr>
-</table>
+CentOS 7.1
 
 ## Usage
+
+This cookbook supports a blog post I wrote over on my blog: http://www.marcusbeach.co/chef-cookbook/
 
 ### apache_first::default
 
@@ -39,5 +24,4 @@ Include `apache_first` in your node's `run_list`:
 
 ## License and Authors
 
-Author:: YOUR_NAME (<mrbeach.marcus@gmail.com>)
-=======
+Author:: Marcus Lee Beach (<mrbeach.marcus@gmail.com>)
