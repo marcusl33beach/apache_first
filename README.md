@@ -1,6 +1,6 @@
 # apache_first-cookbook
 
-This cookbook will buil a base levl apache server on the centOS 7.1 platform.
+This cookbook will build a base level apache server on the centOS 7.1 platform.
 
 ## Supported Platforms
 
