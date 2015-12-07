@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # apache_first-cookbook
 
 TODO: Enter the cookbook description here.
@@ -40,7 +39,5 @@ Include `apache_first` in your node's `run_list`:
 
 ## License and Authors
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Author:: YOUR_NAME (<mrbeach.marcus@gmail.com>)
 =======
-# apache_first
->>>>>>> 1d2707a908d04993ad2af5984fbd4bd3c398e962
